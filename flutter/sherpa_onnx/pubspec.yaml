@@ -1,10 +1,8 @@
-name: sherpa_onnx
+# ? LA VERSIÓN CORREGIDA Y COMPLETA
+# (He añadido las 2 primeras líneas)
 
-description: >
-  Speech recognition, speech synthesis, speaker diarization, and speaker recognition
-  using next-gen Kaldi with onnxruntime without Internet connection.
-
-repository: https://github.com/k2-fsa/sherpa-onnx/tree/master/flutter
+name: sherpa_onnx_flutter
+description: A Flutter plugin for sherpa-onnx. This is a modified fork.
 
 issue_tracker: https://github.com/k2-fsa/sherpa-onnx/issues
 documentation: https://k2-fsa.github.io/sherpa/onnx/
